@@ -1,0 +1,12 @@
+c:\users\abdullah\documents\visual studio 2013\Projects\odev\odev\bin\Debug\odev.exe.config
+c:\users\abdullah\documents\visual studio 2013\Projects\odev\odev\obj\Debug\odev.csprojResolveAssemblyReference.cache
+c:\users\abdullah\documents\visual studio 2013\Projects\odev\odev\obj\Debug\odev.Properties.Resources.resources
+c:\users\abdullah\documents\visual studio 2013\Projects\odev\odev\obj\Debug\odev.csproj.GenerateResource.Cache
+c:\users\abdullah\documents\visual studio 2013\Projects\odev\odev\bin\Debug\odev.exe
+c:\users\abdullah\documents\visual studio 2013\Projects\odev\odev\bin\Debug\odev.pdb
+c:\users\abdullah\documents\visual studio 2013\Projects\odev\odev\obj\Debug\odev.exe
+c:\users\abdullah\documents\visual studio 2013\Projects\odev\odev\obj\Debug\odev.pdb
+c:\users\abdullah\documents\visual studio 2013\Projects\odev\odev\obj\Debug\odev.Mod5.resources
+c:\users\abdullah\documents\visual studio 2013\Projects\odev\odev\obj\Debug\odev.Mod7.resources
+c:\users\abdullah\documents\visual studio 2013\Projects\odev\odev\obj\Debug\odev.Secim.resources
+c:\users\abdullah\documents\visual studio 2013\Projects\odev\odev\obj\Debug\odev.Menu.resources
